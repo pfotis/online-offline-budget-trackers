@@ -10,20 +10,20 @@
 
 ## links
 
-    <a href="https://github.com/pfotis/online-offline-budget-trackers" rel="nofollow" target="_black">Repository link</a>
+[Repository link](https://github.com/pfotis/online-offline-budget-trackers)
 
-    <a href="https://warm-forest-83399.herokuapp.com/" rel="nofollow">Heroku link</a>
+[Heroku link](https://warm-forest-83399.herokuapp.com/)
 
 ## Description
 
-    This application store in the database mongoDB all the transactions from the user. The user could add new
-    transactions from different terminals. 
+    This application store in the database mongoDB all the transactions from the user. The user could add 
+    new transactions from different terminals. 
 
-    The user could store all the spendings and all the earnings up to today. The application read all the data 
-    the user input, and for better look for the user create a diagram. The diagram help the user to see better 
-    his/her transactions history. Additional this application can work when the user is without internet connection,
-    this happen because the application create a temporary database in the browser until the user's divice go back
-    online and all the stored data from browser delete automatically.
+    The user could store all the spendings and all the earnings up to today. The application read all the 
+    data the user input, and for better look for the user create a diagram. The diagram help the user to 
+    see better his/her transactions history. Additional this application can work when the user is without 
+    internet connection, this happen because the application create a temporary database in the browser 
+    until the user's divice go back online and all the stored data from browser delete automatically.
 
 ## Built With
 
