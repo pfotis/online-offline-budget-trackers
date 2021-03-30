@@ -10,20 +10,20 @@
 
 ## links
 
-    link of the repository :   https://github.com/pfotis/online-offline-budget-trackers
+    [Repository link](https://github.com/pfotis/online-offline-budget-trackers)
     
-    link of the webpage  :     https://warm-forest-83399.herokuapp.com/
+    [Heroku link](https://warm-forest-83399.herokuapp.com/)
 
 ## Description
 
-    This application store in the database mongoDB all the transactions from the user. The user could add new transactions 
-    from different terminals. 
+    This application store in the database mongoDB all the transactions from the user. The user could add new
+    transactions from different terminals. 
 
-    The user could store all the spendings and all the earnings up to today. The application read all the data the user input, 
-    and for better look for the user create a diagram. The diagram help the user to see better his/her transactions history.
-    Additional this application can work when the user is without internet connection , this happen because the application 
-    create a temporary database in the browser until the user's divice go back online and all the stored data from browser delete
-    automatically.
+    The user could store all the spendings and all the earnings up to today. The application read all the data 
+    the user input, and for better look for the user create a diagram. The diagram help the user to see better 
+    his/her transactions history. Additional this application can work when the user is without internet connection,
+    this happen because the application create a temporary database in the browser until the user's divice go back
+    online and all the stored data from browser delete automatically.
 
 ## Built With
 
@@ -47,17 +47,27 @@
 
 <img src="./public/assets/img/readme/first_impression.png" alt="first_impress">
 
-<img src="./public/assets/img/readme/add_online.png" alt="stats">
+    add when the application is online
 
-<img src="./public/assets/img/readme/offline.png" alt="add exercise">
+<img src="./public/assets/img/readme/add_online.png" alt="add online">
 
-<img src="./public/assets/img/readme/add_offline.png" alt="add exercise">
+    the application turn offline
 
-<img src="./public/assets/img/readme/add_offline_2.png" alt="add exercise">
+<img src="./public/assets/img/readme/offline.png" alt="go to offline mode">
 
-<img src="./public/assets/img/readme/online.png" alt="add exercise">
+    add when the application is offline
 
-<img src="./public/assets/img/readme/delete_offline_database.png" alt="add exercise">
+<img src="./public/assets/img/readme/add_offline.png" alt="add offline">
+
+<img src="./public/assets/img/readme/add_offline_2.png" alt="add offline">
+
+    the application turn back online
+
+<img src="./public/assets/img/readme/online.png" alt="come back online">
+
+    the temporary database deleted automatically
+
+<img src="./public/assets/img/readme/delete_offline_database.png" alt="delete database">
 
 
 ## Questions
