@@ -10,9 +10,9 @@
 
 ## links
 
-    <a href= "https://github.com/pfotis/online-offline-budget-trackers" >Repository link</a>
+    <a href="https://github.com/pfotis/online-offline-budget-trackers" rel="nofollow" target="_black">Repository link</a>
 
-    <a href= "https://warm-forest-83399.herokuapp.com/" >Heroku link</a>
+    <a href="https://warm-forest-83399.herokuapp.com/" rel="nofollow">Heroku link</a>
 
 ## Description
 
